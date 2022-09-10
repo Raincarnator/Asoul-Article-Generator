@@ -5,7 +5,7 @@
 </p>
 
 # Asoul Article Generator
-> 基于gpt2-chinese模型的Asoul小作文生成器。
+> 基于[GPT2](https://github.com/Morizeyao/GPT2-Chinese)模型的Asoul小作文生成器。
 
 ## 声明
 
